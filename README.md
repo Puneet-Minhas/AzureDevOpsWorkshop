@@ -8,3 +8,5 @@
 2. You would need a laptop with the following requirements:
    - Internet Connectivity
    - Edge or Chrome browser
+   - MS Office 2010 or latest
+   - Install Azure DevOps Office Integration 2019 (free) using the link, https://visualstudio.microsoft.com/downloads/#other-family
